@@ -3,7 +3,7 @@ import { Bilingual } from '../components/Bilingual';
 
 export default function HomePage() {
   return (
-    <main className="layout">
+    <main className="layout layout--single">
       <div className="content">
         <section className="hero">
           <span className="badge">OpenClaw Docs</span>

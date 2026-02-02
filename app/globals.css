@@ -37,6 +37,10 @@ main {
   padding: 32px;
 }
 
+.layout--single {
+  grid-template-columns: 1fr;
+}
+
 .sidebar {
   position: sticky;
   top: 32px;
